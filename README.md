@@ -1,5 +1,5 @@
 # AT-AT
-(Created with CodeSandbox during hackathon)
+(Created with HTML, Javascript, ReactJS and MUI.org materials in CodeSandbox during hackathon)
 
 (Demo URL: https://mhc44r-3000.csb.app/)
 
